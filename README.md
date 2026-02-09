@@ -35,25 +35,25 @@ This repository serves as an **index of interconnected agent-based modeling proj
 
 ### 1. Buffalo Traffic Dynamics Simulation  
 **Repository**:  
-[https://github.com/JacoZhang-23/Traffic_Dynamics  ](https://github.com/njiang8/Traffic_Dynamics)
+https://github.com/njiang8/Traffic_Dynamics
 
 ---
 
 ### 2. Multi-Round LLM for Opinion Dynamics  
 **Repository**:  
-[https://github.com/JacoZhang-23/Multi-Round-LLM-for-Opinion-Dynamics ](https://github.com/njiang8/Multi-Round-LLM-for-Opinion-Dynamics) 
+https://github.com/njiang8/Multi-Round-LLM-for-Opinion-Dynamics
 
 ---
 
 ### 3. Building Evacuation Simulation Framework  
 **Repository**:  
-[https://github.com/JacoZhang-23/Building_Evacuation](https://github.com/njiang8/Building_Evacuation)  
+https://github.com/njiang8/Building_Evacuation
 
 ---
 
 ### 4. Multi-Disease SEIR Agent-Based Model  
 **Repository**:  
-[https://github.com/njiang8/seir-multi  ](https://github.com/njiang8/seir-multi)
+https://github.com/njiang8/seir-multi
 
 ---
 
