@@ -78,5 +78,6 @@ Please refer to the individual repositories for detailed usage information.
 
 ## License
 
-This code collection is intended for **academic and research purposes**.  
-Please cite the corresponding paper when using or extending this framework.
+<a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/"><img alt="Creative Commons
+License" style="border-width:0" src="https://licensebuttons.net/l/zero/1.0/88x31.png" /></a>
+
